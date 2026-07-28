@@ -6,12 +6,12 @@
 <h3 align="center">Security Researcher | Penetration Tester | AI Security</h3>
 
 <!-- Banner -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,100:0e75b6&height=200&section=header&text=Zerkem&fontSize=60&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Security%20%7C%20Software%20%7C%20Technology&descAlignY=55&descSize=20" alt="Header Banner" width="100%" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,100:0e75b6&height=200&section=header&text=Bazixa&fontSize=60&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Security%20%7C%20Software%20%7C%20Technology&descAlignY=55&descSize=20" alt="Header Banner" width="100%" />
 
 <!-- Profile Views -->
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=Zerkem&label=Profile%20views&color=0e75b6&style=flat" alt="Zerkem profile views" />
-  <img src="https://img.shields.io/github/followers/Zerkem?label=Followers&style=flat&color=0e75b6" alt="GitHub followers" />
+  <img src="https://komarev.com/ghpvc/?username=Bazixa&label=Profile%20views&color=0e75b6&style=flat" alt="Bazixa profile views" />
+  <img src="https://img.shields.io/github/followers/Bazixa?label=Followers&style=flat&color=0e75b6" alt="GitHub followers" />
 </p>
 
 </div>
@@ -68,12 +68,12 @@ Feel free to reach out if you want to talk pentesting tools & tactics, Python/Go
 ### GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=Zerkem&show_icons=true&theme=dark&hide_border=true&cache_seconds=86400" alt="Kemal's GitHub stats" width="49%" />
-  <img src="https://streak-stats.demolab.com/?user=Zerkem&theme=dark&hide_border=true" alt="GitHub Streak" width="49%" />
+  <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=Bazixa&show_icons=true&theme=dark&hide_border=true&cache_seconds=86400" alt="Kemal's GitHub stats" width="49%" />
+  <img src="https://streak-stats.demolab.com/?user=Bazixa&theme=dark&hide_border=true" alt="GitHub Streak" width="49%" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=Zerkem&layout=compact&theme=dark&hide_border=true&cache_seconds=86400" alt="Top Languages" width="49%" />
+  <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=Bazixa&layout=compact&theme=dark&hide_border=true&cache_seconds=86400" alt="Top Languages" width="49%" />
 </p>
 
 ---
