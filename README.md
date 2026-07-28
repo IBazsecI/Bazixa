@@ -68,12 +68,12 @@ Feel free to reach out if you want to talk pentesting tools & tactics, Python/Go
 ### GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=Bazixa&show_icons=true&theme=dark&hide_border=true&cache_seconds=86400" alt="Kemal's GitHub stats" width="49%" />
+  <img src="https://github-stats-extended.vercel.app/api?username=Bazixa&show_icons=true&theme=dark&hide_border=true&cache_seconds=86400" alt="Kemal's GitHub stats" width="49%" />
   <img src="https://streak-stats.demolab.com/?user=Bazixa&theme=dark&hide_border=true" alt="GitHub Streak" width="49%" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=Bazixa&layout=compact&theme=dark&hide_border=true&cache_seconds=86400" alt="Top Languages" width="49%" />
+  <img src="https://github-stats-extended.vercel.app/api/top-langs/?username=Bazixa&layout=compact&theme=dark&hide_border=true&cache_seconds=86400" alt="Top Languages" width="49%" />
 </p>
 
 ---
