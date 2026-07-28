@@ -2,33 +2,38 @@
 <!-- Header Section -->
 <div align="center" style="background-color:#0d1117; color:#f0f0f0; padding: 30px; border-radius: 15px;">
 
-<h1 align="center">Hi 👋, I'm Kemal Baz</h1>
-<h3 align="center">Security Researcher | Penetration Tester | AI Security Enthusiast</h3>
+<h1 align="center">Hi, I'm Kemal Baz</h1>
+<h3 align="center">Security Researcher | Penetration Tester | AI Security</h3>
 
 <!-- Banner -->
-<img src="https://github.com/Zerkem/Zerkem/blob/main/animation.gif" alt="Cyber Security Banner" width="100%" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,100:0e75b6&height=200&section=header&text=Bazixa&fontSize=60&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Security%20%7C%20Technology%20%7C%20Storytelling&descAlignY=55&descSize=20" alt="Header Banner" width="100%" />
 
 <!-- Profile Views -->
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=Zerkem&label=Profile%20views&color=0e75b6&style=flat" alt="Zerkem profile views" />
-  <img src="https://img.shields.io/github/followers/Zerkem?label=Followers&style=flat&color=0e75b6" alt="GitHub followers" />
+  <img src="https://komarev.com/ghpvc/?username=Bazixa&label=Profile%20views&color=0e75b6&style=flat" alt="Bazixa profile views" />
+  <img src="https://img.shields.io/github/followers/Bazixa?label=Followers&style=flat&color=0e75b6" alt="GitHub followers" />
 </p>
 
 </div>
 
 ---
 
-### 🧠 About Me
+### About Me
 
-- 🔐 Working on **cybersecurity, penetration testing, and secure web & mobile projects**
-- 🚀 Currently learning **Go** and diving deeper into **AI Security**
-- 🎥 Just started a **YouTube channel** — sharing cybersecurity tutorials, tool walkthroughs, and hacking tactics
-- 💬 Ask me about **pentesting tools & tactics**, **Python/Go development**, or **AI Security**
-- ⚡ Fun fact: I break things so others can build them safer
+I'm a security researcher focused on penetration testing and building secure web & mobile applications. Alongside offensive security work, I'm expanding into **AI Security** — studying how attacks and defenses evolve as AI systems become part of everyday infrastructure.
+
+I'm also currently learning **Go**, using it to build faster tooling for my security work.
+
+**On YouTube**, I'm starting a channel that goes beyond just cybersecurity — it covers:
+- **Cybersecurity & Ethical Hacking** — tool walkthroughs, pentesting methodology, real-world attack scenarios
+- **Technology** — deep dives into how modern systems, tools, and infrastructure actually work
+- **Storytelling** — narrative-driven videos on hacks, breaches, and the people behind them
+
+Feel free to reach out if you want to talk pentesting tools & tactics, Python/Go development, or AI security.
 
 ---
 
-### 🌐 Connect with Me
+### Connect with Me
 
 <p align="center">
   <a href="https://www.linkedin.com/in/kemal-baz-penetrationtester-ethicalhacking/" target="_blank">
@@ -41,7 +46,7 @@
 
 ---
 
-### 🛠️ Languages & Cybersecurity Tools
+### Languages & Cybersecurity Tools
 
 <p align="center">
 <a href="https://www.python.org"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="45" title="Python"/></a>
@@ -60,17 +65,17 @@
 
 ---
 
-### 📊 GitHub Stats
+### GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Zerkem&show_icons=true&theme=dark&hide_border=true&count_private=true" alt="Kemal's GitHub stats" width="49%" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Zerkem&theme=dark&hide_border=true" alt="GitHub Streak" width="49%" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Bazixa&show_icons=true&theme=dark&hide_border=true&cache_seconds=86400" alt="Kemal's GitHub stats" width="49%" />
+  <img src="https://streak-stats.demolab.com/?user=Bazixa&theme=dark&hide_border=true" alt="GitHub Streak" width="49%" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Zerkem&layout=compact&theme=dark&hide_border=true" alt="Top Languages" width="49%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Bazixa&layout=compact&theme=dark&hide_border=true&cache_seconds=86400" alt="Top Languages" width="49%" />
 </p>
 
 ---
 
-<p align="center"><i>🔴 New YouTube videos on offensive security & AI security dropping soon — subscribe to follow along!</i></p>
+<p align="center"><i>New videos on offensive security, technology, and storytelling coming soon — subscribe to follow along.</i></p>
