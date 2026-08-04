@@ -35,7 +35,7 @@ Feel free to reach out if you want to talk pentesting tools & tactics, Python/Go
 
 ### Connect with Me
 
-<p align="center">
+<p align="fixed">
   <a href="https://www.linkedin.com/in/kemal-baz-penetrationtester-ethicalhacking/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
