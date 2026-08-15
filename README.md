@@ -6,12 +6,12 @@
 <h3 align="center">Security Researcher | Penetration Tester | AI Security</h3>
 
 <!-- Banner -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,100:0e75b6&height=200&section=header&text=Bazixa&fontSize=60&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Security%20%7C%20Software%20%7C%20Technology&descAlignY=55&descSize=20" alt="Header Banner" width="100%" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,100:0e75b6&height=200&section=header&text=IBazsecI&fontSize=60&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Security%20%7C%20Software%20%7C%20Technology&descAlignY=55&descSize=20" alt="Header Banner" width="100%" />
 
 <!-- Profile Views -->
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=Bazixa&label=Profile%20views&color=0e75b6&style=flat" alt="Bazixa profile views" />
-  <img src="https://img.shields.io/github/followers/Bazixa?label=Followers&style=flat&color=0e75b6" alt="GitHub followers" />
+  <img src="https://komarev.com/ghpvc/?username=IBazsecI&label=Profile%20views&color=0e75b6&style=flat" alt="IBazsecI profile views" />
+  <img src="https://img.shields.io/github/followers/IBazsecI?label=Followers&style=flat&color=0e75b6" alt="GitHub followers" />
 </p>
 
 </div>
@@ -39,7 +39,7 @@ Feel free to reach out if you want to talk pentesting tools & tactics, Python/Go
   <a href="https://www.linkedin.com/in/kemal-baz-penetrationtester-ethicalhacking/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
-  <a href="https://www.youtube.com/@Bazixalamus" target="_blank">
+  <a href="https://www.youtube.com/@Bazsec" target="_blank">
     <img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="YouTube" />
   </a>
 </p>
@@ -68,11 +68,11 @@ Feel free to reach out if you want to talk pentesting tools & tactics, Python/Go
 ### GitHub Stats
 
 <p align="center">
-  <img src="https://github-stats-extended.vercel.app/api?username=Bazixa&show_icons=true&theme=dark&hide_border=true&cache_seconds=86400" alt="Kemal's GitHub stats" width="49%" />
+  <img src="https://github-stats-extended.vercel.app/api?username=IBazsecI&show_icons=true&theme=dark&hide_border=true&cache_seconds=86400" alt="Kemal's GitHub stats" width="49%" />
 </p>
 
 <p align="center">
-  <img src="https://github-stats-extended.vercel.app/api/top-langs/?username=Bazixa&layout=compact&theme=dark&hide_border=true&cache_seconds=86400" alt="Top Languages" width="49%" />
+  <img src="https://github-stats-extended.vercel.app/api/top-langs/?username=IBazsecI&layout=compact&theme=dark&hide_border=true&cache_seconds=86400" alt="Top Languages" width="49%" />
 </p>
 
 ---
