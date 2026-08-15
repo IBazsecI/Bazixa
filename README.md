@@ -6,7 +6,7 @@
 <h3 align="center">Security Researcher | Penetration Tester | AI Security</h3>
 
 <!-- Banner -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,100:0e75b6&height=200&section=header&text=IBazsecI&fontSize=60&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Security%20%7C%20Software%20%7C%20Technology&descAlignY=55&descSize=20" alt="Header Banner" width="100%" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:3a0ca3,100:0e75b6&height=200&section=header&text=Bazsec&fontSize=60&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Security%20%7C%20Software%20%7C%20Technology&descAlignY=55&descSize=20" alt="Bazsec Header Banner" width="100%" />
 
 <!-- Profile Views -->
 <p align="center">
